@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833847510991",
+    "project_id": "vcetkart-10c81",
+    "storage_bucket": "vcetkart-10c81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833847510991:android:ee59bf1f53b9af14dbf4ba",
+        "android_client_info": {
+          "package_name": "com.example.vcet_kart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNOEJtDeBTqZ11DXeqEWPFLciugR12jrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
