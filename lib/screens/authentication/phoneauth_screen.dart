@@ -118,7 +118,7 @@ class _PhoneAuthScreenState extends State<PhoneAuthScreen> {
         String number =
             '${countryCodeController.text}${phoneNumberController.text}';
        _service.verifyPhoneNumber (context,number);
-      },
+      },// shikha
         child: Padding(
       padding: const EdgeInsets.all(12.0),
       child :Text(

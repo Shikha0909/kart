@@ -11,7 +11,7 @@ Future<void>verifyPhoneNumber(BuildContext context ,number)async {
       (PhoneAuthCredential credential)async {
       await auth.signInWithCredential(credential);
   };
-
+// shikha
    final PhoneVerificationFailed verificationFailed =
    (FirebaseAuthException e){
      if(e.code =='invalid-phone-number'){
